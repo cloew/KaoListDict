@@ -6,4 +6,5 @@ setup(name='kao_listdict',
       author='',
       author_email='',
       packages=['kao_listdict'],
+      install_requires=['kao_decorators>=0.1.2']
      )
